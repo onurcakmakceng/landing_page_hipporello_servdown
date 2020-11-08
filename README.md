@@ -1,5 +1,5 @@
-# landing_page_hipporello_servdown
-This landing page for quick start to hipporello, vercel and servdown
+# Landing Page with Hipporello, Servdown and Vercel
+This landing page for quick start to hipporello, vercel and servdown usages.
 
 ## Step by step:
 1) Create a repository for your landing page
