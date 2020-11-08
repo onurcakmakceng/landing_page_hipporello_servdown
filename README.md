@@ -1,21 +1,7 @@
 # Landing Page with Hipporello, Servdown and Vercel
-This landing page and tutorial created for quick start to 
-<a href="https://www.hipporello.com)">
-    <img alt="Hipporello-logo" src="https://www.hipporello.com/static/logo-9870f26c8116acfba4dde610b296edca.svg" height="30">
-</a> 
-, 
-<a href="https://vercel.com)">
-    <img alt="Vercel-logo" src="https://logovtor.com/wp-content/uploads/2020/10/vercel-inc-logo-vector.png" height="30">
-</a> 
-and 
-<a href="https://servdown.com">
-    <img alt="Servdown-logo" src="https://servdown.com/assets/img/servdown_v5.svg" height="30">
-</a> usages.
-
+This landing page and tutorial created for quick start to [Hipporello](https://www.hipporello.com), [Vercel](https://vercel.com) and [Servdown](https://servdown.com) usages.
 
 https://landing-page-hipporello-servdown.vercel.app
-
-
 
 
 ## Step by step:
