@@ -1,5 +1,7 @@
 # Landing Page with Hipporello, Servdown and Vercel
-This landing page for quick start to [Hipporello](https://www.hipporello.com), [Vercel](https://vercel.com) and [Servdown](https://servdown.com) usages.
+This landing page and tutorial created for quick start to [Hipporello](https://www.hipporello.com), [Vercel](https://vercel.com) and [Servdown](https://servdown.com) usages.
+
+https://landing-page-hipporello-servdown.vercel.app
 
 ## Step by step:
 1) Create a repository for your landing page
