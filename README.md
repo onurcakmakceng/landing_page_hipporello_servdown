@@ -3,10 +3,10 @@ This landing page and tutorial created for quick start to [Hipporello](https://w
 
 https://landing-page-hipporello-servdown.vercel.app
 
-<a href="https://www.hipporello.com)">
+<a href="https://www.hipporello.com">
  &emsp;&emsp;<img alt="Hipporello-logo" src="https://www.hipporello.com/static/logo-9870f26c8116acfba4dde610b296edca.svg" height="50">&emsp;&emsp;
 </a> 
-<a href="https://vercel.com)">
+<a href="https://vercel.com">
  <img alt="Vercel-logo" src="https://logovtor.com/wp-content/uploads/2020/10/vercel-inc-logo-vector.png" height="60">&emsp;&emsp;
 </a> 
 <a href="https://servdown.com">
