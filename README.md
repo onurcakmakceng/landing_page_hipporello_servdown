@@ -23,5 +23,5 @@ https://landing-page-hipporello-servdown.vercel.app
 3) Register the [Servdown](https://servdown.com) for checking status/heartbeat of your service. [Servdown](https://servdown.com)  is the good option for server&service monitoring.
   <img src="servdown.gif" width="750" alt="servdown-gif">  
 
-4) For using [Hipporello](https://www.hipporello.com) you just need a trello account and match a board. Then you can use and customize preset forms.
+4) For using [Hipporello](https://www.hipporello.com) you just need a [Trello](https://trello.com/) account and match a board. Then you can use and customize preset forms.
     to be continued...
