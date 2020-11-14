@@ -22,8 +22,8 @@ https://landing-page-hipporello-servdown.vercel.app
 1) Create a repository for your bootstrap landing page.
 2) Deploy it into [Vercel](https://vercel.com) easily. Just login and add your repository. [Vercel](https://vercel.com) is a service for hosting static pages freely. It can also serve dynamic pages via [Next.js](https://nextjs.org) server side rendering (I'll test it later with React).
 3) Register the [Servdown](https://servdown.com) for checking status/heartbeat of your service. [Servdown](https://servdown.com)  is the good option for server&service monitoring.
-  <img src="servdown.gif" width="750" alt="servdown-gif">  
+  <img src="assets/img/for-readme/servdown.gif" width="750" alt="servdown-gif">  
 
 4) [Hipporello](https://www.hipporello.com)  connects your customers and employees to your support, IT & business teams by creating Trello cards via online forms and emails. For using [Hipporello](https://www.hipporello.com) you just need a [Trello](https://trello.com/) account and match a board. Then you can use and customize preset forms. For learning the easy usage of [Hipporello](https://www.hipporello.com), just check the their official video below and their website.
 official video
-[![Watch the video](youtube-hipporello-official-video-preview.png)](https://www.youtube.com/watch?v=16-91ojSbaQ)
+[![Watch the video](assets/img/for-readme/youtube-hipporello-official-video-preview.png)](https://www.youtube.com/watch?v=16-91ojSbaQ)
