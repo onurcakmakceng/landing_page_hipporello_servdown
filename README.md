@@ -24,7 +24,7 @@ https://landing-page-hipporello-servdown.vercel.app
 3) Register the [Servdown](https://servdown.com) for checking status/heartbeat of your service. [Servdown](https://servdown.com)  is the good option for server&service monitoring.
   <img src="assets/img/for-readme/servdown.gif" width="750" alt="servdown-gif">  
 
-4) [Hipporello](https://www.hipporello.com)  connects your customers and employees to your support, IT & business teams by creating Trello cards via online forms and emails. For using [Hipporello](https://www.hipporello.com) you just need a [Trello](https://trello.com/) account create a board with [Hipporello](https://www.hipporello.com) power-up. Then you can use and customize preset forms. 
+4) [Hipporello](https://www.hipporello.com)  connects your customers and employees to your support, IT & business teams by creating Trello cards via online forms and emails. For using [Hipporello](https://www.hipporello.com) you just need a [Trello](https://trello.com/) account, create a board with [Hipporello](https://www.hipporello.com) power-up. Then you can use and customize preset forms. 
 
 &emsp;&emsp;I've used [Hipporello](https://www.hipporello.com) for getting e-mail adresses to subscribtion list. Also used for contact forms at the end of the page. You can look easy usages in index html code. There are just two script links for generated forms by [Hipporello](https://www.hipporello.com).
 
