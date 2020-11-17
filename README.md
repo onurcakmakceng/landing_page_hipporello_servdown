@@ -20,7 +20,7 @@ https://landing-page-hipporello-servdown.vercel.app
 
 ## Step by step:
 1) Create a repository for your bootstrap landing page.
-2) Deploy it into [Vercel](https://vercel.com) easily. Just login and add your repository. [Vercel](https://vercel.com) is a service for hosting static pages freely. It can also serve dynamic pages via [Next.js](https://nextjs.org) server side rendering (I'll test it later with React).
+2) Deploy it into [Vercel](https://vercel.com) easily. Just login and add your repository. [Vercel](https://vercel.com) is a service for hosting static pages freely. It can also serve dynamic pages via [Next.js](https://nextjs.org) server side rendering (I'll test it later with React). In my opinion, best feature which comes in it, is automatically Build & Deploy service. It's food for an easy start to CI / CD. Keep in mind, better to use ***.vercelignore*** file from the begining. Otherwise [Vercel](https://vercel.com) may Rebuild & Deploy your repo after every README.md or simple file edits.
 3) Register the [Servdown](https://servdown.com) for checking status/heartbeat of your service. [Servdown](https://servdown.com)  is the good option for server&service monitoring.
   <img src="assets/img/for-readme/servdown.gif" width="750" alt="servdown-gif">  
 
@@ -28,6 +28,7 @@ https://landing-page-hipporello-servdown.vercel.app
 
 &emsp;&emsp;I've used [Hipporello](https://www.hipporello.com) for getting e-mail adresses to subscribtion list. Also used for contact forms at the end of the page. You can look easy usages in index html code. There are just two script links for generated forms by [Hipporello](https://www.hipporello.com).
 
+<img src="assets/img/for-readme/hipporello.gif" width="750" alt="hipporello-gif">  
 
 &emsp;&emsp;For learning the easy usage of [Hipporello](https://www.hipporello.com), just check their official video below and their website.
 
